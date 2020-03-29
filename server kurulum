@@ -1,0 +1,4 @@
+1- dosyayı web_api.jar dosyasını ilgili klasore indirdikten sonra terminale gidip
+2-  java - jar dosyayolu/web_api.jar --server.port=8085 komutunu yaz
+3-  http://localhost:8085/student/list url ine gidip işlemleri yap
+   
